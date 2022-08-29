@@ -10,4 +10,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:waka-->
+
+```text
+JSON       51 mins         ███████████████▓░░░░░░░░░   62.96 %
+Markdown   15 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.23 %
+Lua        10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
+INI        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+HTML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+TOML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+```
+
 <!--END_SECTION:waka-->
