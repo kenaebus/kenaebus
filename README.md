@@ -3,10 +3,6 @@
 I'm currently a college student studying in Computer Science aspiring to become a Software Engineer. I enjoy learning new things and expanding my knowledge in the field, hoping to use my skills to create something I'm passionate about.
 </p>
 <br>
-  - 👀 I’m interested in technology, coding and video games. I would like to dive more into website development to explore my artisitc creative side, and I would like to learn SQL to implement into other languages
-<br>
-  - 🌱 Current projects I'm working on is my website, space-invader game, and my University Management System
-<br>
   - 💞️ Pronouns: She/Her
 <br>
   - 📫 You can reach me via email @ kenaebustos@gmail.com
